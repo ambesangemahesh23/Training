@@ -1,3 +1,3 @@
-#!/bin/bash
+# bin config
 cal
 ifconfig
